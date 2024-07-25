@@ -1,0 +1,357 @@
+UserID: 1490444757 | Time: 2024-07-22 18:50:26.506633 | Command: /bgmi | Target: 20.198.76.88 | Port: 13738 | Time: 20
+Username: @Blazeraj
+Target: 20.198.76.88
+Port: 13738
+Time: 20
+
+UserID: 1490444757 | Time: 2024-07-23 06:46:53.542962 | Command: /bgmi | Target: 20.235.150.111 | Port: 15177 | Time: 600
+Username: @Blazeraj
+Target: 20.235.150.111
+Port: 15177
+Time: 600
+
+UserID: 1490444757 | Time: 2024-07-23 07:05:39.855196 | Command: /bgmi | Target: 20.235.51.208 | Port: 25063 | Time: 360
+UserID: 1490444757 | Time: 2024-07-23 07:05:46.020289 | Command: /bgmi | Target: 20.235.51.208 | Port: 25063 | Time: 360
+Username: @Blazeraj
+Target: 20.235.51.208
+Port: 25063
+Time: 360
+
+UserID: 1490444757 | Time: 2024-07-23 07:11:53.568787 | Command: /bgmi | Target: 20.235.51.208 | Port: 25063 | Time: 940
+Username: @Blazeraj
+Target: 20.235.51.208
+Port: 25063
+Time: 940
+
+UserID: 1490444757 | Time: 2024-07-23 07:15:57.212611 | Command: /bgmi | Target: 20.235.51.208 | Port: 25063 | Time: 740
+Username: @Blazeraj
+Target: 20.235.51.208
+Port: 25063
+Time: 740
+
+UserID: 1490444757 | Time: 2024-07-23 07:31:01.300777 | Command: /bgmi | Target: 20.235.51.208 | Port: 25063 | Time: 60
+Username: @Blazeraj
+Target: 20.235.51.208
+Port: 25063
+Time: 60
+
+UserID: 1490444757 | Time: 2024-07-23 07:32:28.283920 | Command: /bgmi | Target: 20.235.51.208 | Port: 25063 | Time: 60
+Username: @Blazeraj
+Target: 20.235.51.208
+Port: 25063
+Time: 60
+
+UserID: 1490444757 | Time: 2024-07-23 10:51:12.231099 | Command: /bgmi | Target: 20.235.93.241 | Port: 12543 | Time: 480
+Username: @Blazeraj
+Target: 20.235.93.241
+Port: 12543
+Time: 480
+
+UserID: 1490444757 | Time: 2024-07-23 11:06:26.299228 | Command: /bgmi | Target: 20.198.74.232 | Port: 22361 | Time: 720
+Username: @Blazeraj
+Target: 20.198.74.232
+Port: 22361
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 11:27:05.649872 | Command: /bgmi | Target: 20.219.164.214 | Port: 22515 | Time: 720
+UserID: 1490444757 | Time: 2024-07-23 11:27:11.518564 | Command: /bgmi | Target: 20.219.164.214 | Port: 22515 | Time: 720
+Username: @Blazeraj
+Target: 20.219.164.214
+Port: 22515
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 11:42:20.394587 | Command: /bgmi | Target: 20.219.164.214 | Port: 22515 | Time: 60
+Username: @Blazeraj
+Target: 20.219.164.214
+Port: 22515
+Time: 60
+
+UserID: 1490444757 | Time: 2024-07-23 11:47:02.886084 | Command: /bgmi | Target: 20.235.89.47 | Port: 25594 | Time: 240
+Username: @Blazeraj
+Target: 20.235.89.47
+Port: 25594
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 11:51:40.100106 | Command: /bgmi | Target: 20.235.89.47 | Port: 25594 | Time: 440
+Username: @Blazeraj
+Target: 20.235.89.47
+Port: 25594
+Time: 440
+
+UserID: 1490444757 | Time: 2024-07-23 12:05:07.177147 | Command: /bgmi | Target: 20.235.88.173 | Port: 13709 | Time: 240
+Username: @Blazeraj
+Target: 20.235.88.173
+Port: 13709
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 12:10:18.157351 | Command: /bgmi | Target: 20.235.88.173 | Port: 13709 | Time: 480
+Username: @Blazeraj
+Target: 20.235.88.173
+Port: 13709
+Time: 480
+
+UserID: 1490444757 | Time: 2024-07-23 12:25:20.893036 | Command: /bgmi | Target: 20.204.190.221 | Port: 10479 | Time: 240
+Username: @Blazeraj
+Target: 20.204.190.221
+Port: 10479
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 12:29:52.012615 | Command: /bgmi | Target: 20.204.190.221 | Port: 10479 | Time: 480
+Username: @Blazeraj
+Target: 20.204.190.221
+Port: 10479
+Time: 480
+
+UserID: 1490444757 | Time: 2024-07-23 12:42:51.898544 | Command: /bgmi | Target: 20.235.10.129 | Port: 11922 | Time: 240
+UserID: 1490444757 | Time: 2024-07-23 12:42:57.122013 | Command: /bgmi | Target: 20.235.10.129 | Port: 11922 | Time: 240
+Username: @Blazeraj
+Target: 20.235.10.129
+Port: 11922
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 12:47:43.782864 | Command: /bgmi | Target: 20.235.10.129 | Port: 11922 | Time: 600
+Username: @Blazeraj
+Target: 20.235.10.129
+Port: 11922
+Time: 600
+
+UserID: 1490444757 | Time: 2024-07-23 13:00:34.195980 | Command: /bgmi | Target: 20.204.190.98 | Port: 10488 | Time: 240
+Username: @Blazeraj
+Target: 20.204.190.98
+Port: 10488
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 13:06:07.056772 | Command: /bgmi | Target: 20.204.190.98 | Port: 10488 | Time: 480
+Username: @Blazeraj
+Target: 20.204.190.98
+Port: 10488
+Time: 480
+
+UserID: 1490444757 | Time: 2024-07-23 13:18:25.631824 | Command: /bgmi | Target: 20.204.19.47 | Port: 11106 | Time: 720
+Username: @Blazeraj
+Target: 20.204.19.47
+Port: 11106
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 13:31:53.219247 | Command: /bgmi | Target: 20.204.19.47 | Port: 11106 | Time: 780
+Username: @Blazeraj
+Target: 20.204.19.47
+Port: 11106
+Time: 780
+
+UserID: 1490444757 | Time: 2024-07-23 13:54:53.104538 | Command: /bgmi | Target: 20.235.53.162 | Port: 13138 | Time: 720
+Username: @Blazeraj
+Target: 20.235.53.162
+Port: 13138
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 14:05:08.508563 | Command: /bgmi | Target: 20.235.53.162 | Port: 13138 | Time: 780
+Username: @Blazeraj
+Target: 20.235.53.162
+Port: 13138
+Time: 780
+
+UserID: 1490444757 | Time: 2024-07-23 14:26:15.627408 | Command: /bgmi | Target: 20.198.108.84 | Port: 12169 | Time: 720
+UserID: 1490444757 | Time: 2024-07-23 14:26:32.150510 | Command: /bgmi | Target: 20.198.108.84 | Port: 12169 | Time: 720
+Username: @Blazeraj
+Target: 20.198.108.84
+Port: 12169
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 14:39:39.182853 | Command: /bgmi | Target: 20.198.108.84 | Port: 12169 | Time: 780
+Username: @Blazeraj
+Target: 20.198.108.84
+Port: 12169
+Time: 780
+
+UserID: 1490444757 | Time: 2024-07-23 15:04:53.770042 | Command: /bgmi | Target: 20.235.14.13 | Port: 20300 | Time: 720
+Username: @Blazeraj
+Target: 20.235.14.13
+Port: 20300
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 17:04:52.479114 | Command: /bgmi | Target: 20.204.190.98 | Port: 10343 | Time: 900
+Username: @Blazeraj
+Target: 20.204.190.98
+Port: 10343
+Time: 900
+
+UserID: 1490444757 | Time: 2024-07-23 17:18:30.142987 | Command: /bgmi | Target: 20.204.190.98 | Port: 10343 | Time: 120
+Username: @Blazeraj
+Target: 20.204.190.98
+Port: 10343
+Time: 120
+
+UserID: 1490444757 | Time: 2024-07-23 17:21:10.444568 | Command: /bgmi | Target: 20.204.190.98 | Port: 10343 | Time: 600
+Username: @Blazeraj
+Target: 20.204.190.98
+Port: 10343
+Time: 600
+
+UserID: 1490444757 | Time: 2024-07-23 17:37:33.942566 | Command: /bgmi | Target: 20.198.110.158 | Port: 15089 | Time: 1500
+Username: @Blazeraj
+Target: 20.198.110.158
+Port: 15089
+Time: 1500
+
+UserID: 1490444757 | Time: 2024-07-23 17:47:58.304948 | Command: /bgmi | Target: 20.198.110.158 | Port: 15089 | Time: 150
+Username: @Blazeraj
+Target: 20.198.110.158
+Port: 15089
+Time: 150
+
+UserID: 1490444757 | Time: 2024-07-23 17:54:34.877128 | Command: /bgmi | Target: 20.198.79.55 | Port: 11922 | Time: 240
+Username: @Blazeraj
+Target: 20.198.79.55
+Port: 11922
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 17:57:04.136768 | Command: /bgmi | Target: 20.198.79.55 | Port: 11265 | Time: 1200
+Username: @Blazeraj
+Target: 20.198.79.55
+Port: 11265
+Time: 1200
+
+UserID: 1490444757 | Time: 2024-07-23 18:00:08.193823 | Command: /bgmi | Target: 20.235.95.67 | Port: 29219 | Time: 240
+Username: @Blazeraj
+Target: 20.235.95.67
+Port: 29219
+Time: 240
+
+UserID: 1490444757 | Time: 2024-07-23 18:20:31.666583 | Command: /bgmi | Target: 20.204.16.98 | Port: 10926 | Time: 900
+Username: @Blazeraj
+Target: 20.204.16.98
+Port: 10926
+Time: 900
+
+UserID: 1490444757 | Time: 2024-07-23 18:24:12.090265 | Command: /bgmi | Target: 20.204.16.98 | Port: 10926 | Time: 720
+Username: @Blazeraj
+Target: 20.204.16.98
+Port: 10926
+Time: 720
+
+UserID: 1490444757 | Time: 2024-07-23 18:51:44.118597 | Command: /bgmi | Target: 20.235.93.233 | Port: 20445 | Time: 1620
+Username: @Blazeraj
+Target: 20.235.93.233
+Port: 20445
+Time: 1620
+
+UserID: 1490444757 | Time: 2024-07-23 19:24:16.806462 | Command: /bgmi | Target: 20.204.181.168 | Port: 19559 | Time: 1560
+UserID: 1490444757 | Time: 2024-07-23 19:24:23.059135 | Command: /bgmi | Target: 20.204.181.168 | Port: 19559 | Time: 1560
+Username: @Blazeraj
+Target: 20.204.181.168
+Port: 19559
+Time: 1560
+
+UserID: 1490444757 | Time: 2024-07-23 19:55:22.152056 | Command: /bgmi | Target: 20.198.75.180 | Port: 20505 | Time: 15
+Username: @Blazeraj
+Target: 20.198.75.180
+Port: 20505
+Time: 15
+
+UserID: 1490444757 | Time: 2024-07-23 19:57:07.468592 | Command: /bgmi | Target: 20.198.75.180 | Port: 20505 | Time: 1560
+Username: @Blazeraj
+Target: 20.198.75.180
+Port: 20505
+Time: 1560
+
+UserID: 1490444757 | Time: 2024-07-24 03:33:21.595988 | Command: /bgmi | Target: 20.204.176.246 | Port: 25318 | Time: 1560
+Username: @Blazeraj
+Target: 20.204.176.246
+Port: 25318
+Time: 1560
+
+UserID: 1490444757 | Time: 2024-07-24 04:08:18.442091 | Command: /bgmi | Target: 20.219.166.126 | Port: 17966 | Time: 1560
+UserID: 1490444757 | Time: 2024-07-24 04:08:23.257168 | Command: /bgmi | Target: 20.219.166.126 | Port: 17966 | Time: 1560
+Username: @Blazeraj
+Target: 20.219.166.126
+Port: 17966
+Time: 1560
+
+UserID: 1490444757 | Time: 2024-07-24 04:40:06.654641 | Command: /bgmi | Target: 20.198.110.36 | Port: 19371 | Time: 180
+Username: @Blazeraj
+Target: 20.198.110.36
+Port: 19371
+Time: 180
+
+UserID: 1490444757 | Time: 2024-07-24 04:44:27.833977 | Command: /bgmi | Target: 20.198.110.36 | Port: 19371 | Time: 1380
+Username: @Blazeraj
+Target: 20.198.110.36
+Port: 19371
+Time: 1380
+
+UserID: 1490444757 | Time: 2024-07-24 05:12:14.173004 | Command: /bgmi | Target: 20.219.166.58 | Port: 18931 | Time: 1500
+Username: @Blazeraj
+Target: 20.219.166.58
+Port: 18931
+Time: 1500
+
+UserID: 1490444757 | Time: 2024-07-24 05:40:13.550802 | Command: /bgmi | Target: 20.235.92.252 | Port: 11876 | Time: 180
+Username: @Blazeraj
+Target: 20.235.92.252
+Port: 11876
+Time: 180
+
+UserID: 1490444757 | Time: 2024-07-24 05:43:54.102898 | Command: /bgmi | Target: 20.235.92.252 | Port: 11876 | Time: 1380
+UserID: 1490444757 | Time: 2024-07-24 05:44:00.083109 | Command: /bgmi | Target: 20.235.92.252 | Port: 11876 | Time: 1380
+Username: @Blazeraj
+Target: 20.235.92.252
+Port: 11876
+Time: 1380
+
+UserID: 1490444757 | Time: 2024-07-24 06:40:01.334217 | Command: /bgmi | Target: 20.235.11.134 | Port: 26436 | Time: 10
+UserID: 1490444757 | Time: 2024-07-24 06:40:08.530590 | Command: /bgmi | Target: 20.235.11.134 | Port: 26436 | Time: 10
+UserID: 1490444757 | Time: 2024-07-24 06:42:26.850706 | Command: /bgmi | Target: 20.235.11.134 | Port: 26436 | Time: 1200
+Username: @Blazeraj
+Target: 20.235.11.134
+Port: 26436
+Time: 1200
+
+UserID: 1490444757 | Time: 2024-07-24 12:38:44.556380 | Command: /bgmi | Target: 103.16.34.41 | Port: 10006 | Time: 20
+Username: @Blazeraj
+Target: 103.16.34.41
+Port: 10006
+Time: 20
+
+UserID: 1490444757 | Time: 2024-07-24 12:39:23.845756 | Command: /bgmi | Target: 103.16.32.52 | Port: 10017 | Time: 20
+Username: @Blazeraj
+Target: 103.16.32.52
+Port: 10017
+Time: 20
+
+UserID: 1490444757 | Time: 2024-07-24 12:40:25.980099 | Command: /bgmi | Target: 103.16.32.52 | Port: 10017 | Time: 60
+Username: @Blazeraj
+Target: 103.16.32.52
+Port: 10017
+Time: 60
+
+UserID: 1490444757 | Time: 2024-07-24 12:42:12.929714 | Command: /bgmi | Target: 103.16.32.52 | Port: 10017 | Time: 10
+Username: @Blazeraj
+Target: 103.16.32.52
+Port: 10017
+Time: 10
+
+UserID: 1490444757 | Time: 2024-07-24 12:42:25.542004 | Command: /bgmi | Target: 103.16.32.52 | Port: 10017 | Time: 10
+Username: @Blazeraj
+Target: 103.16.32.52
+Port: 10017
+Time: 10
+
+UserID: 1490444757 | Time: 2024-07-24 12:42:38.983725 | Command: /bgmi | Target: 103.16.32.52 | Port: 10017 | Time: 30
+Username: @Blazeraj
+Target: 103.16.32.52
+Port: 10017
+Time: 30
+
+UserID: 1490444757 | Time: 2024-07-24 14:25:49.251334 | Command: /bgmi | Target: 20.204.19.56 | Port: 10295 | Time: 420
+Username: @Blazeraj
+Target: 20.204.19.56
+Port: 10295
+Time: 420
+
+UserID: 5641814258 | Time: 2024-07-24 17:48:39.284624 | Command: /bgmi | Target: 20.219.166.28 | Port: 28875 | Time: 280
+Username: UserID: 5641814258
+Target: 20.219.166.28
+Port: 28875
+Time: 280
+
